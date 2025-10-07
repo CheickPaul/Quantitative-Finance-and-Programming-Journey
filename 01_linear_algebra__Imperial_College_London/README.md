@@ -37,7 +37,7 @@ This folder centralizes all my notes, exercises, and projects for the Linear Alg
 
 ---
 
-## Exercises & Notes from *Linear Algebra Done Right* (Axler)
+## Exercises & Notes from the book *Linear Algebra Done Right* (Axler)
 **Resolved exercises and notes**
 
 ### Chapters to revise first (certificate-critical)
