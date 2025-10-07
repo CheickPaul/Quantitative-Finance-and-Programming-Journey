@@ -1,10 +1,10 @@
-# Quantitative-Finance-and-Programming-Journey
-This repository documents my self-study journey to prepare for a top-tier master's degree in quantitative finance and to pursue a role as a quant trader in elite trading firms.
+# Quantitative Math Learning Portfolio
+This repository documents my study journey to prepare for a  master's degree in quantitative finance and to pursue a role as a quant trader or analyst.
 
 ## Objective
 My goal is to enhance my understanding of mathematics and programming, focusing on the skills needed for a career in quantitative finance and quantitative trading.
 
-## Repository Structure
+## Roadmap
 The repository is divided into phases, each corresponding to different levels of study:
 - <span style="color:red">**Phase 1**</span>: Math Fundamentals Review
 - <span style="color:red">**Phase 2**</span>: Theoretical Consolidation
