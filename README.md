@@ -21,5 +21,9 @@ My goal is to enhance my understanding of mathematics and programming, focusing 
 | **PCA / Multivariate Analysis** | Coursera: *Mathematics for Machine Learning – PCA* (Imperial College London) | *Principal Component Analysis* – **I.T. Jolliffe** | Principal component decomposition, explained variance, SVD | Risk factors, dimensionality reduction | `pca_market_risk.ipynb` → PCA applied to market returns |
 | **Quantitative Portfolio Synthesis** | — (Final GitHub Project) | *Integration of all above resources* | Build a complete multi-factor quant portfolio & execution model | Risk decomposition, optimization, strategy automation | `quant_portfolio_dashboard.ipynb` → Dashboard integrating PCA, Markowitz, Monte Carlo, EPAT agents |
 
+This repository is updated regularly as I continue to progress in my study journey. Please feel free to explore it and connect with me for collaboration or feedback..
 
-This repository is updated regularly as I continue to progress in my study journey. Please feel free to explore it.
+---
+
+### Contact
+**LinkedIn:** [linkedin.com/in/paul-c-94349036b](https://www.linkedin.com/in/paul-c-94349036b/)  
