@@ -15,6 +15,7 @@
 
 ## Purpose
 This folder centralizes all my notes, exercises, and projects for the Linear Algebra course.
+Feel free to explore it.
 
 ---
 
