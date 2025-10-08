@@ -3,6 +3,7 @@ This repository documents my study journey to prepare for a  master's degree in 
 
 ## Objective
 My goal is to enhance my understanding of mathematics and programming, focusing on the skills needed for a career in quantitative finance and quantitative trading.
+The objective is also to facilitate future revisions, and quickly retrieve key information that will be useful for my studies, projects, and professional career.
 
 ## Roadmap - Learning Plan
 
