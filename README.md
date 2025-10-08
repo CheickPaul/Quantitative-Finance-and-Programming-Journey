@@ -23,7 +23,7 @@ My goal is to enhance my understanding of mathematics and programming, focusing 
 
 This repository is updated regularly as I continue to progress in my study journey. Please feel free to explore it and connect with me for collaboration or feedback..
 
-**Quick access:** [📂 Linear Algebra folder](./linear-algebra--imperial-college-london/) · [📂 PCA folder](./pca_imperial-mml/) · …
+**Quick access:** [📂 Linear Algebra folder](./linear-algebra--imperial-college-london/) · …
 
 ---
 
