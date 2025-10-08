@@ -1,16 +1,13 @@
-# 1) Imperial College London – Mathematics for Machine Learning: Linear Algebra
-
-2) Book *Linear Algebra Done Right (4th ed.)* — Sheldon Axler 
-3) Projects (independent from the certificate)
-
+# 1) Mathematics for Machine Learning: Linear Algebra
 **Institution**: Imperial College London  
 **Instructors**: Prof. David Dye, Dr. Sam Cooper, Dr. Marc Deisenroth  
 **Platform**: Coursera  
 **Status**: In Progress 🟦  
-
-**Textbook used as reference and to go further**: *Linear Algebra Done Right (4th ed.)* — Sheldon Axler
-
 [📄 View Certificate on Coursera](https://www.coursera.org/learn/linear-algebra-machine-learning)
+
+
+2) Book used as reference to go further *Linear Algebra Done Right (4th ed.)* — Sheldon Axler 
+3) Projects (independent from the certificate)
 
 ---
 
