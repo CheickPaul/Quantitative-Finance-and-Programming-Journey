@@ -1,7 +1,7 @@
 # 1) Imperial College London – Mathematics for Machine Learning: Linear Algebra
 
-2) Book (Axler)  
-3) Projects
+2) Book *Linear Algebra Done Right (4th ed.)* — Sheldon Axler 
+3) Projects (independent from the certificate)
 
 **Institution**: Imperial College London  
 **Instructors**: Prof. David Dye, Dr. Sam Cooper, Dr. Marc Deisenroth  
