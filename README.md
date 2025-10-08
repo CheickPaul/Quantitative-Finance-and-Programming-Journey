@@ -1,5 +1,5 @@
 # Quantitative Math Learning Portfolio
-This repository documents my study journey to prepare for a  master's degree in quantitative finance and to pursue a role as a quant trader or analyst.
+This repository documents my study and review journey to prepare for a  master's degree in quantitative finance and to pursue a role as a quant trader or analyst.
 
 ## Objective
 My goal is to enhance my understanding of mathematics and programming, focusing on the skills needed for a career in quantitative finance and quantitative trading.
