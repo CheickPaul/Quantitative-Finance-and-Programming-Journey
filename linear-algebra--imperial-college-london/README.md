@@ -1,20 +1,18 @@
 # Mathematics for Machine Learning: Linear Algebra
+
 **Institution**: Imperial College London  
 **Instructors**: Prof. David Dye, Dr. Sam Cooper, Dr. Marc Deisenroth  
 **Platform**: Coursera  
-**Status**: In Progress 🟦  
+**Status**: In Progress  
 [📄 View Certificate on Coursera](https://www.coursera.org/learn/linear-algebra-machine-learning)
 
-
-
-· Book used as reference to go further *Linear Algebra Done Right (4th ed.)* — Sheldon Axler 
-
+· Book used as reference to go further *Linear Algebra Done Right (4th ed.)* — Sheldon Axler  
 · Projects (independent from the certificate)
 
 ---
 
 ## Purpose
-This folder centralizes all my notes, exercises, and projects for the Linear Algebra course.
+This folder centralizes all my notes, exercises, and projects for the Linear Algebra course.  
 Feel free to explore it.
 
 ---
@@ -37,58 +35,47 @@ Feel free to explore it.
 
 ---
 
-## Exercises & Notes from the book *Principal Component Analysis* (Jolliffe)
+## Exercises & Notes from the book *Linear Algebra Done Right* (Axler)
 
 **Resolved exercises and notes**
 
----
-
 ### Chapters to revise first (certificate-critical)
+- **Ch. 1 – Vector Spaces** (1A–1C): definitions, subspaces, direct sums  
+  → [Notes](./book_axler/ch01_vector_spaces/README.md) · [Exercises 1A–1C (resolved)](./book_axler/ch01_vector_spaces/exercises_1A_1C.md)
 
-- **Ch. 1 – Introduction**: history, motivation, geometric interpretation  
-  → [Notes](book_jolliffe/ch01_intro/README.md) · [Exercises 1 (resolved)](book_jolliffe/ch01_intro/exercises.md)
+- **Ch. 2 – Finite-Dimensional Vector Spaces** (2A–2C): span, basis, dimension  
+  → [Notes](./book_axler/ch02_finite_dimensional/README.md) · [Exercises 2A–2C (resolved)](./book_axler/ch02_finite_dimensional/exercises_2A_2C.md)
 
-- **Ch. 2 – Covariance and Correlation Matrices**: covariance structure, eigen decomposition  
-  → [Notes](book_jolliffe/ch02_covariance/README.md) · [Exercises 2 (resolved)](book_jolliffe/ch02_covariance/exercises.md)
+- **Ch. 3 – Linear Maps** (3A–3D): null space, range, matrix of a map, invertibility, change of basis  
+  → [Notes](./book_axler/ch03_linear_maps/README.md) · [Exercises 3A–3D (resolved)](./book_axler/ch03_linear_maps/exercises_3A_3D.md)
 
-- **Ch. 3 – The Mathematical Foundations of PCA**: eigenvalues, eigenvectors, orthogonal transformations  
-  → [Notes](book_jolliffe/ch03_math_foundations/README.md) · [Exercises 3 (resolved)](book_jolliffe/ch03_math_foundations/exercises.md)
-
-- **Ch. 4 – Choosing the Number of Components**: explained variance, scree plot, cumulative variance  
-  → [Notes](book_jolliffe/ch04_num_components/README.md) · [Exercises 4 (resolved)](book_jolliffe/ch04_num_components/exercises.md)
-
----
+- **Ch. 5 – Eigenvalues & Eigenvectors** (5A–5D): minimal polynomial, upper-triangular form, diagonalizability  
+  → [Notes](./book_axler/ch05_eigenvalues/README.md) · [Exercises 5A–5D (resolved)](./book_axler/ch05_eigenvalues/exercises_5A_5D.md)
 
 ### Chapters to add for career (quant-oriented depth)
+- **Ch. 6 – Inner Product Spaces** (6A–6C): norms, Gram–Schmidt, orthogonal projections, pseudoinverse → least-squares / regression  
+  → [Notes](./book_axler/ch06_inner_product/README.md) · [Exercises 6A–6C (resolved)](./book_axler/ch06_inner_product/exercises_6A_6C.md)
 
-- **Ch. 5 – PCA in Practice**: data preprocessing, centering/scaling, outliers, missing data  
-  → [Notes](book_jolliffe/ch05_pca_in_practice/README.md) · [Exercises 5 (resolved)](book_jolliffe/ch05_pca_in_practice/exercises.md)
-
-- **Ch. 6 – PCA and Multivariate Techniques**: regression, factor analysis, clustering  
-  → [Notes](book_jolliffe/ch06_multivariate/README.md) · [Exercises 6 (resolved)](book_jolliffe/ch06_multivariate/exercises.md)
-
-- **Ch. 7 – Nonlinear & Kernel PCA**: kernel trick, nonlinear transformations  
-  → [Notes](book_jolliffe/ch07_kernel_pca/README.md) · [Exercises 7 (resolved)](book_jolliffe/ch07_kernel_pca/exercises.md)
-
-- **Ch. 8 – Applications in Finance and Data Science**: dimensionality reduction, portfolio risk decomposition  
-  → [Notes](book_jolliffe/ch08_applications/README.md) · [Exercises 8 (resolved)](book_jolliffe/ch08_applications/exercises.md)
+- **Ch. 7 – Operators on Inner Product Spaces** (7A–7B, 7E–7F): spectral theorem, SVD, QR/polar → PCA, risk factors, dimensionality reduction  
+  → [Notes](./book_axler/ch07_operators/README.md) · [Exercises 7A–7F (resolved)](./book_axler/ch07_operators/exercises_7A_7F.md)
 
 ---
 
 ### Exercise sets to solve (tracked as “resolved” in this repo)
+- **1A–1C** — fields / vectors / subspaces (proof fluency)  
+  → [Exercises 1A–1C](./book_axler/ch01_vector_spaces/exercises_1A_1C.md)
 
-- **1–2** — covariance matrices, eigen decomposition, correlation interpretation  
-  → [Exercises 1–2](book_jolliffe/ch02_covariance/exercises.md)
+- **3B–3C** — null/range, rank, matrices of linear maps (bridge to code)  
+  → [Exercises 3B–3C](./book_axler/ch03_linear_maps/exercises_3B_3C.md)
 
-- **3–4** — eigenvalues, orthogonal transformations, explained variance  
-  → [Exercises 3–4](book_jolliffe/ch03_math_foundations/exercises.md)
+- **5A–5D** — eigenvalues, minimal polynomial, diagonalization (PCA foundation)  
+  → [Exercises 5A–5D](./book_axler/ch05_eigenvalues/exercises_5A_5D.md)
 
-- **5–6** — scaling, centering, and multivariate projection methods  
-  → [Exercises 5–6](book_jolliffe/ch05_pca_in_practice/exercises.md)
+- **6A–6C** — inner products, Gram–Schmidt, projections / pseudoinverse (least-squares)  
+  → [Exercises 6A–6C](./book_axler/ch06_inner_product/exercises_6A_6C.md)
 
-- **7–8** — kernel PCA, nonlinear manifolds, portfolio PCA application  
-  → [Exercises 7–8](book_jolliffe/ch07_kernel_pca/exercises.md)
-
+- **7B, 7E** — Spectral Theorem & SVD (risk factors / compression)  
+  → [Exercises 7B & 7E](./book_axler/ch07_operators/exercises_7B_7E.md)
 
 ---
 
