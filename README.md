@@ -24,7 +24,7 @@ The objective is also to facilitate future revisions, and quickly retrieve key i
 
 This repository is updated regularly as I continue to progress in my study journey. Please feel free to explore it and connect with me for collaboration or feedback..
 
-**Quick access:** [Linear Algebra folder](./linear-algebra--imperial-college-london/) ··· [Multivariate Calculus folder](./multivariate-calculus--imperial-college-london/) ··· [Probability & Statistics: To p or not to p? – University of London](./probability-statistics--uol-to-p-or-not-to-p/)
+**Quick access:** [Linear Algebra folder](./linear-algebra--imperial-college-london/) ··· [Multivariate Calculus folder](./multivariate-calculus--imperial-college-london/) ··· [Probability & Statistics: To p or not to p? – University of London](./probability-statistics--uol-to-p-or-not-to-p/) ··· 
 
 ---
 
