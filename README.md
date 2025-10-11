@@ -2,7 +2,7 @@
 This repository documents my study and review journey to prepare for a  master's degree in quantitative finance and to pursue a role as a quant trader or analyst.
 
 ## Objective
-My goal is to enhance my understanding of mathematics and programming, focusing on the skills needed for a career in quantitative finance and quantitative trading.
+My goal is to review and enhance my understanding of mathematics and programming, focusing on the skills needed for a career in quantitative finance and quantitative trading.
 The objective is also to facilitate future revisions, and quickly retrieve key information that will be useful for my studies, projects, and professional career.
 
 ## Roadmap - Learning Plan
