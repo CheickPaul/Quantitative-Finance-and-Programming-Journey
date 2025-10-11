@@ -55,6 +55,28 @@ It focuses on derivatives, gradients, Taylor expansion, and optimization — key
   → [Notes](./book_apostol/vol2_ch10_15/README.md)
 
 ---
+## Exercise sets to solve (tracked as “resolved” in this repo)
+
+- **Vol. 1 — Ch. 1–4** — functions, limits, continuity, derivatives, basic integrals *(refresh for M1)*  
+  → [Exercises Vol.1 Ch.1–4](./book_apostol/vol1_ch01_04/exercises.md)
+
+- **Vol. 2 — Ch. 8** — partial derivatives, gradient, directional derivative, Jacobian *(M2)*  
+  → [Exercises Vol.2 Ch.8](./book_apostol/vol2_ch08_09/exercises.md#chapter-8)
+
+- **Vol. 2 — Ch. 9** — Hessian, Taylor expansion in ℝⁿ, convexity, stationary points *(M3–M4–M5)*  
+  → [Exercises Vol.2 Ch.9](./book_apostol/vol2_ch08_09/exercises.md#chapter-9)
+
+- **Vol. 2 — Ch. 10–11 (sélection)** — multiple & line integrals, change of variables *(M4/M5 support)*  
+  → [Exercises Vol.2 Ch.10–11](./book_apostol/vol2_ch10_15/README.md#exercises-ch10-11)
+
+- **Vol. 2 — Lagrange multipliers (dans Ch.9)** — contraintes d’égalité, interprétation géométrique *(M5)*  
+  → [Lagrange multipliers set](./book_apostol/vol2_ch08_09/exercises.md#lagrange-multipliers)
+
+- **Least-squares / Regression (dérivé de Ch.9 & compléments)** — normal equations, sur-déterminé *(M6)*  
+  → [Least-squares set](./book_apostol/vol2_ch10_15/README.md#least-squares)
+
+
+---
 
 ## Projects
 | Notebook | Description |
