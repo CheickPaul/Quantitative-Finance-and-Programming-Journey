@@ -42,7 +42,7 @@ It focuses on probability intuition, randomness, sampling, inference, and hypoth
 ## Exercises & Notes from *Introduction to Probability* — Blitzstein & Hwang  
 **Resolved exercises and notes**
 
-###  Part A – Certificate Focus (Coursera)
+###  Part A  Certificate Focus (Coursera)
 | Book Chapters | Main Concepts | Links |
 |----------------|----------------|--------|
 | **Ch. 1–3** | Combinatorics, conditional probability, Bayes' theorem | [Notes](book_blitzstein/ch01_03/README.md) · [Exercises](book_blitzstein/ch01_03/exercises.md) |
@@ -52,7 +52,7 @@ It focuses on probability intuition, randomness, sampling, inference, and hypoth
 
 ---
 
-###  Part B – Quant & Finance Extensions
+###  Part B  Quant & Finance Extensions
 | Focus | Relevant Topics / Applications | Reference Chapters |
 |--------|--------------------------------|--------------------|
 | **Risk & Expectation** | Expected value as risk-neutral pricing | Ch. 4–5 |
