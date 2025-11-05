@@ -18,19 +18,20 @@ Feel free to explore it.
 ---
 
 ## Modules of the certificate
-- [Module 1: Introduction to Linear Algebra and to Mathematics for Machine Learning](modules/module_1/README.md)  
+
+- [Module 1: Introduction to Linear Algebra and to Mathematics for Machine Learning](./module_1/README.md)  
   Motivation, course logistics, geometric intuition, first vector operations.
 
-- [Module 2: Vectors are Objects that Move Around Space](modules/module_2/README.md)  
+- [Module 2: Vectors are Objects that Move Around Space](./module_2/README.md)  
   Vector operations, parameter space, geometry in ℝⁿ.
 
-- [Module 3: Matrices in Linear Algebra – Objects that Operate on Vectors](modules/module_3/README.md)  
+- [Module 3: Matrices in Linear Algebra — Objects that Operate on Vectors](./module_3/README.md)  
   Matrices as operators, systems of equations, matrix multiplication, rank.
 
-- [Module 4: Matrices Make Linear Mappings](modules/module_4/README.md)  
+- [Module 4: Matrices Make Linear Mappings](./module_4/README.md)  
   Linear transformations, composition, change of basis.
 
-- [Module 5: Eigenvalues and Eigenvectors – Application to Data Problems](modules/module_5/README.md)  
+- [Module 5: Eigenvalues and Eigenvectors — Application to Data Problems](./module_5/README.md)  
   Eigen decomposition, diagonalization, link to PCA and covariance.
 
 ---
