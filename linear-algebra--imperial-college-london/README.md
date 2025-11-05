@@ -4,7 +4,7 @@
 **Instructors**: Prof. David Dye, Dr. Sam Cooper, Dr. Marc Deisenroth  
 **Platform**: Coursera  
 **Status**: In Progress  
-[📄 View Certificate on Coursera](https://www.coursera.org/learn/linear-algebra-machine-learning)
+[📄 View Certificate](https://www.coursera.org/learn/linear-algebra-machine-learning)
 
 · Book used as reference to go further *Linear Algebra Done Right (4th ed.)* — Sheldon Axler  
 · Projects (independent from the certificate)
