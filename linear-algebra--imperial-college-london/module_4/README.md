@@ -1,0 +1,13 @@
+- [Lesson 1 — Intro: Einstein summation & symmetry of dot product](./lesson-01_einstein-summation-dot-symmetry.md)
+- [Lesson 2 — Non-square matrix multiplication (Practice)](./lesson-02_non-square-matmul_practice.md)
+- [Lesson 3 — Example: using non-square matrices to do a projection (Practice)](./lesson-03_projection-with-rectangular_practice.md)
+- [Lesson 4 — Matrices changing basis](./lesson-04_matrices-changing-basis.md)
+- [Lesson 5 — Doing a transformation in a changed basis](./lesson-05_transform-in-changed-basis.md)
+- [Lesson 6 — Orthogonal matrices](./lesson-06_orthogonal-matrices.md)
+- [Lesson 7 — The Gram–Schmidt process (Video)](./lesson-07_gram-schmidt-video.md)
+- [Lesson 8 — Gram–Schmidt process (Lab)](./lesson-08_gram-schmidt-lab.md)
+- [Lesson 9 — Example: reflecting in a plane (Video)](./lesson-09_reflecting-in-a-plane-video.md)
+- [Lesson 10 — Reflecting Bear (Lab)](./lesson-10_reflecting-bear-lab.md)
+- [Lesson 11 — Gram–Schmidt process (Programming Assignment)](./lesson-11_gram-schmidt-programming.md)
+- [Lesson 12 — Reflecting Bear (Programming Assignment)](./lesson-12_reflecting-bear-programming.md)
+
