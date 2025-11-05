@@ -3,7 +3,7 @@
 **Institution**: Imperial College London  
 **Instructors**: Prof. David Dye, Dr. Sam Cooper, Dr. Marc Deisenroth  
 **Platform**: Coursera  
-**Status**: In Progress  
+**Status**: In Progress 🟦  
 [📄 View Certificate](https://www.coursera.org/learn/linear-algebra-machine-learning)
 
 · Book used as reference to go further *Linear Algebra Done Right (4th ed.)* — Sheldon Axler  
