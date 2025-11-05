@@ -1,0 +1,13 @@
+- [Lesson 1 — Introduction to module 2](./lesson-01_intro.md)
+- [Lesson 2 — Modulus & inner product](./lesson-02_modulus-inner-product.md)
+- [Lesson 3 — Cosine & dot product](./lesson-03_cosine-dot-product.md)
+- [Lesson 4 — Projection](./lesson-04_projection.md)
+- [Lesson 5 — Dot product of vectors (Practice)](./lesson-05_dot-product_practice.md)
+- [Lesson 6 — Changing basis](./lesson-06_changing-basis.md)
+- [Lesson 7 — Changing basis (Practice)](./lesson-07_changing-basis_practice.md)
+- [Lesson 8 — Basis, vector space, and linear independence](./lesson-08_basis-vspace-lin-independence.md)
+- [Lesson 9 — Applications of changing basis](./lesson-09_applications-changing-basis.md)
+- [Lesson 10 — Linear dependency of a set of vectors (Practice)](./lesson-10_linear-dependency_practice.md)
+- [Lesson 11 — Vector operations assessment (Graded)](./lesson-11_vector-ops-assessment.md)
+- [Lesson 12 — Summary](./lesson-12_summary.md)
+
