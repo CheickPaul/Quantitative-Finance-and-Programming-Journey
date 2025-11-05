@@ -1,0 +1,13 @@
+- [Lesson 1 — Matrices, vectors, and solving simultaneous equation problems](./lesson-01_matrices-vectors-simultaneous-equations.md)
+- [Lesson 2 — How matrices transform space](./lesson-02_how-matrices-transform-space.md)
+- [Lesson 3 — Types of matrix transformation](./lesson-03_types-of-matrix-transformation.md)
+- [Lesson 4 — Composition of matrix transformations](./lesson-04_composition-matrix-transformations.md)
+- [Lesson 5 — Using matrices to make transformations (Practice)](./lesson-05_transformations_practice.md)
+- [Lesson 6 — Apples & bananas: Gaussian elimination](./lesson-06_gaussian-elimination.md)
+- [Lesson 7 — From elimination to the inverse matrix](./lesson-07_to-inverse-matrix.md)
+- [Lesson 8 — Solving linear equations using the inverse (Practice)](./lesson-08_inverse-method_practice.md)
+- [Lesson 9 — Determinants and inverses](./lesson-09_determinants-and-inverses.md)
+- [Lesson 10 — Identifying special matrices (Lab)](./lesson-10_identifying-special-matrices_lab.md)
+- [Lesson 11 — Summary](./lesson-11_summary.md)
+- [Lesson 12 — Identifying special matrices (Programming Assignment)](./lesson-12_identifying-special-matrices_prog.md)
+
