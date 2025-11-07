@@ -14,7 +14,7 @@
 
 ## Purpose
 This folder centralizes my notes, exercises, and Python projects for the *Multivariate Calculus* course.  
-It focuses on derivatives, gradients, Taylor expansion, and optimization — key tools for machine-learning and quantitative-finance models.
+It focuses on derivatives, gradients, Taylor expansion, and optimization. 
 
 ---
 
