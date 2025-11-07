@@ -1,9 +1,10 @@
 ## [GETTING A HANDLE ON VECTOR]
 
-### 1. Parameter Space & Vector
+### <ins>1. Parameter Space & Vector</ins>
 
-- We work in a **parameter space**: each pair **(μ, σ)** is a **point**.  
-  **Contour lines** = same values of the cost (error).
+#### <ins>1.1 Parameter Space, Cost & Vector Moves</ins>
+- We work in a **parameter space**: each pair **(μ, σ)** is a **point**, maps to a **bell curve**, which also maps to a single **Sum of Squared Residuals (SSR)**.  
+ --> **Contour lines** = same SSR but different (μ, σ).
 
 - A **vector** is just a **small move** in this space:  
   **(Δμ, Δσ)** moves us on the contour map.
@@ -14,16 +15,34 @@
 Figure — Left: changing μ shifts the curve; changing σ widens/narrows it (area = 1). 
 Right: each (μ, σ) is a model; contours are cost levels J. The gradient ∇J points uphill; we follow −∇J in small steps to reach (μ*, σ*). 
 
+#### <ins>1.2 Numerical SSR Maps: 3D Surface & Top-Down</ins>
+
+
+- (1) Plotting SSR over the (μ,σ) planes gives a bowl shaped surface, the lowest point at the bottom of the bowl corresponds to the best fit :
+
+<img width="592" height="588" alt="image" src="https://github.com/user-attachments/assets/95f01c19-bee9-469f-9374-7a26d56bba49" />
+
+- (2) From a top-down view, the contour lines represent constant SSR levels. The closer we are to the central hotspot, the lower the SSR :
+<img width="718" height="584" alt="image" src="https://github.com/user-attachments/assets/c0af51d7-a954-45e4-a895-3916df62c678" />
+
+
 ---
 
-### 2. Optimization in Parameter Space - Why Vectors Matter for Optimization
+### <ins>2. Optimization in Parameter Space - Why Vectors Matter for Optimization</ins>
 
-- **Goal**: reach the **minimum** of the cost (best fit).
+#### <ins>2.1 Optimization in (μ,σ): Goal, Idea & Step-by-Step</ins>
 
-- **Optimization idea**: follow the **steepest downhill direction**  
+- **Goal**: Find the pair (μ,σ) which reachs the **minimum** of the cost (best fit).
+
+- **Optimization idea**: follow the **steepest downhill direction**
   (gradient descent intuition).
+  On a contour line, the SSR is constant. Moving along that line does not change the error.    Then, in order to reduce the SSR, we must leave that line perpendicularly in the direction   of −∇SSR (the steepest descent)
 
-- **General view of a vector**: not only a geometric arrow; it’s an **ordered list of components** along axes (here, the parameters).  
+  
+- **Mini procedure (step by step)** : Choose a starting point (μ₀, σ₀). / Compute the residuals (bin by bin or point by point) and the SSR./ Adjust μ if the bell curve is shifted; adjust σ if it is too wide or too narrow. / Repeat until the SSR stops decreasing (or until the desired threshold).
+
+#### <ins>2.2 Vectors in Parameter Space: Direction & Step Size</ins>
+**General view of a vector**: not only a geometric arrow; it’s an **ordered list of components** along axes (here, the parameters).  
   Useful to **describe a direction** and **how much we move**.
 
 
