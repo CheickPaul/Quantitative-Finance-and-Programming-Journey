@@ -45,6 +45,15 @@ Right: each (μ, σ) is a model; contours are cost levels J. The gradient ∇J p
 **General view of a vector**: not only a geometric arrow; it’s an **ordered list of components** along axes (here, the parameters).  
   Useful to **describe a direction** and **how much we move**.
 
+| Action                                           | Parameter change (μ, σ) | Direction on map         | Effect on SSR          | Notes                                                                            |
+| ------------------------------------------------ | ----------------------- | ------------------------ | ---------------------- | -------------------------------------------------------------------------------- |
+| Move **along a contour** (tangent)               | varies, keeps level     | tangential to contour    | **≈ no change**        | Same error level (models differ, cost equal).                                    |
+| Move **perpendicular toward center** (**−∇SSR**) | toward best pair        | straight to basin center | **fastest decrease**  | Best improvement step.                                                           |
+| Move **perpendicular away** (**+∇SSR**)          | away from best pair     | straight out of basin    | **fastest increase**  | Worst move; avoid.                                                               |
+| **Reading the map (right side example)**         | **μ ↓**, **σ ↑**        | ← and ↑                  | **decrease**           | Typical when you stand right of the minimum.                                     |
+| **Step size rule**                               | —                       | shorter arrows           | stabilizes descent     | Take **small steps**; if SSR goes up, **shrink step**. Stop when change is tiny. |
+| **Constraints & scaling**                        | **σ > 0**               | —                        | —                      | Rescale steps if axes differ; don’t overshoot on the steep axis.                 |
+
 
 ---
 
